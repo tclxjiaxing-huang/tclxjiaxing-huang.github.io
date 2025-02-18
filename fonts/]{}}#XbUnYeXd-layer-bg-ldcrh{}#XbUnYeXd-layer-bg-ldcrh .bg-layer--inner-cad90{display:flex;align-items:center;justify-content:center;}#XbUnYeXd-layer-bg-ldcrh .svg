@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>UEMO 404页面-企业快速建站-个人自助模板建站-高端网站定制设计-魔艺(UEmo)极速建站</title>
+    <meta name="keywords" content="404，魔艺，UEmo，极速建站，魔艺极速建站，魔艺(UEmo)极速建站，企业快速建站，个人自助模板建站，高端网站定制设计，建站，网站模板，快速建站，网页模板，自助建站，智能建站，企业网站制作，企业网站建设，个人网站，网站设计，网站改版，设计网站">
+    <meta name="description" content="魔艺(UEmo)极速建站，拥有13年中外知名企业建站经验。是设计交互领先的网站模板产品，便于SEO优化，操作简单，原创设计使用稳定，适合个人、企业网站建设，网站改版，可免费试用">
+    <meta property="og:title" content="UEMO 404页面-企业快速建站-个人自助模板建站-高端网站定制设计-魔艺(UEmo)极速建站">
+    <meta property="og:description" content="魔艺(UEmo)极速建站，拥有13年中外知名企业建站经验。是设计交互领先的网站模板产品，便于SEO优化，操作简单，原创设计使用稳定，适合个人、企业网站建设，网站改版，可免费试用">
+    <meta property="og:image" content="https://www.uemo.net/views/files/og-image.png">
+<!--    <link href="/views/pc/static/css/reset.css" rel="stylesheet"/>-->
+    <link type="text/css" href="/views/pc/static/css/vender.css?v=480" rel="stylesheet"/>
+    <link type="text/css" href="/views/pc/static/css/app.css?v=251" rel="stylesheet"/>
+    <link type="text/css" href="/views/pc/files/others.css?v=520" rel="stylesheet"/>
+    <script type="text/javascript">
+        var CCONFIG = {"DOMAIN_MAIN":"uemo.net","DOMAIN_LINE":"jsmo.xin","TITLE":"Uemo","ACCOUNT_TYPE":"mobile,weixin","PAYMENT_TYPE":"alipay,weixin,uepay,bank_b2b"};
+    </script>
+    <style type="text/css">body{}</style>
+</head>
+
+<body class="bodylist bodynewspost">
+<!-- 头部 -->
+<header id="header" class="index_nav index_nav_1">
+    <div class="content">
+        <div class="header_left flex">
+            <div class="drop">
+                <a id="logo" href="/">
+                    <i class="iconfont icon-uemologo-copy"></i>
+                    <img class="logo-image" src="/views/pc/static/assets/images/uemologo.png" alt="">
+                </a>
+                <div class="drop_title">
+                    <span class="text">优艺客旗下品牌</span>
+                    <i class="iconfont icon-jiantou5-copy-copy-copy-copy"></i>
+                </div>
+                <ul class="drop_list">
+                    <li class="drop_item active">
+                        <a href="https://old.uemo.net/?backend=old_templates_to_use">
+                        <span class="item_text">旧版UEMO建站</span>
+                        <i class="item_right iconfont icon-youjiantou"></i>
+                        </a>
+                    </li>
+                    <li class="drop_item">
+                        <a href="https://www.uemox.com/" target="_blank">
+                        <span class="item_text">营销拓客工具</span>
+                        <i class="item_right iconfont icon-youjiantou"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <ul id="nav" class="flex">
+            <!-- <li class="navitem subnav">
+                <a class="nav-a" href="javascript:;" target="" data-href="template units pages">
+                    <span data-title="模板">模板</span><i class="iconfont icon-jiantou5-copy-copy-copy-copy"></i>
+                </a>
+            </li> -->
+            <li class="navitem">
+                <a class="nav-a" href="/template" target="" data-href="template">
+                    <span data-title="模板">模板</span></i>
+                </a>
+            </li>
+            <li class="navitem">
+                <a class="nav-a" href="/tools/resources/pages" target="" data-href="tools/resources">
+                    <span data-title="资源广场">资源广场</span></i>
+                </a>
+            </li>
+            <!-- <li class="navitem">
+                <a class="nav-a" href="/card" target="" data-href="card">
+                    <span data-title="小程序">小程序</span></i>
+                </a>
+            </li> -->
+            <li class="navitem subnav">
+                <a class="nav-a" href="javascript:;" target="" data-href="customer diy">
+                    <span data-title="案例">案例</span><i class="iconfont icon-jiantou5-copy-copy-copy-copy"></i>
+                </a>
+            </li>
+            <li class="navitem">
+                <a class="nav-a" href="/price"  data-href="price" target="_self">
+                    <span data-title="价格">价格</span>
+                </a>
+            </li>
+            <li class="navitem">
+                <a class="nav-a" href="/agent"  data-href="agent" target="_self">
+                    <span data-title="代理">合作共赢</span>
+                </a>
+            </li>
+            <li class="navitem">
+                <a class="nav-a" href="/document/" data-href="document" target="_self">
+                    <span data-title="帮助">帮助</span>
+                </a>
+            </li>
+        </ul>
+        <div class="header_right flex">
+            <div class="search_btn">
+                <i class="iconfont icon-sousuo-copy"></i>
+            </div>
+            <div class="login-btn hide">
+                <a class="r_animate1 sign_in" href="/user/login.html">登录</a>
+                <a class="r_animate2 sign_up" href="/user/login.html#/register">注册</a>
+            </div>
+            <div class="manage-box flex hide">
+
+                <a href="/user/index.html#/notice" class="notice r_animate1 fl">
+                    <i class="iconfont icon-tongzhi1"></i>
+                    <span class="num hide"></span>
+                </a>
+
+                <div class="head r_animate2">
+                    <a href="javascript:;">
+                        <img class="default-ead" src="/views/pc/files/biaoqing.png" alt="" />
+                                                <i class="iconfont icon-jiantou5-copy-copy-copy-copy"></i>
+                    </a>
+
+                <div class="manage-cont">
+                    <div class="item_manage manage_info">
+                    <div class="user_info">
+                        <div class="name">
+                        blala                        </div>
+                        <div class="level">
+                        <span>等级：</span>
+                                                <span class="lv lv-0">普通</span>
+                                                </div>
+                    </div>
+                    <div class="logout">
+                        <a href="/user/logout.html">退出</a>
+                    </div>
+                    </div>
+                    <div class="item_manage manage_select">
+                    <a href="/user/index.html">个人中心</a>
+                    <a href="/user/index.html#/user-setting">账号设置</a>
+                    </div>
+                                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <aside id="searchview" class="searchview search_box">
+        <div class="search_mask"></div>
+        <div class="searchview_wrapper">
+            <div class="search_content">
+                <div class="search_bar">
+                    <div class="search_bar_wrapper">
+                        <form action="" data-type="target" id="header_searchform">
+                            <input type="text" placeholder="搜索" class="searchform_input" />
+                            <button id="searchform_submit" class="searchform_submit">
+                                <i class="iconfont icon-sousuo-copy"></i>
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                                <div class="search_keywords">
+                                        <section class="result_block hot_word">
+                        <h4>热门搜索</h4>
+                        <div class="result_words">
+                                                <a href="/document/112.html#3">如何绑定域名</a>
+                                                <a href="/document/112.html#1">如何购买域名</a>
+                                                <a href="/document/112.html#2.2">阿里云备案流程</a>
+                                                <a href="/document/166.html">域名后缀怎么选？</a>
+                                                <a href="/document/112.html#2.3">域名解析流程</a>
+                                                <a href="/document/115.html">建站前的准备工作</a>
+                                                <a href="/document/112.html#5.1">如何做域名跳转</a>
+                                                <a href="/document/148.html">如果开通视频模块</a>
+                                                <a href="/document/148.html">如何加百度统计</a>
+                                                </div>
+                    </section>
+                                    </div>
+            </div>
+            <div class="search_close">
+                <div class="search_close_wrapper">
+                    <div class="line top">
+                        <span class="rect top"></span>
+                    </div>
+                    <div class="line bottom">
+                        <span class="rect bottom"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </aside>
+    <div class="subnav-wrapper">
+        <!-- <div class="subnav_bg" data-type="temp-project" data-pos="x-center">
+            <div class="subnav-list">
+                <a class="project-item" href="/template/">
+                    <i class="ic icon iconfont icon-diannao"></i>
+                    <div class="info">
+                        <div class="title">模板</div>
+                        <div class="desc">每套版型都适合多种行业使用</div>
+                    </div>
+                    <i class="ic detail iconfont icon-youjiantou1"></i>
+                </a>
+                <a class="project-item" href="/units/">
+                    <i class="ic icon iconfont icon-zujian"></i>
+                    <div class="info">
+                        <div class="title">组件</div>
+                        <div class="desc">可嵌入模板首页及详情页</div>
+                    </div>
+                    <i class="ic detail iconfont icon-youjiantou1"></i>
+                </a>
+                <a class="project-item" href="/pages/">
+                    <i class="ic icon iconfont icon-wendang"></i>
+                    <div class="info">
+                        <div class="title">页面</div>
+                        <div class="desc">灵活使用不同布局,随意组合</div>
+                    </div>
+                    <i class="ic detail iconfont icon-youjiantou1"></i>
+                </a>
+            </div>
+            <a class="subnav-image" href="https://uemo.net/page/uebuilder.html" target="_blank">
+                <img src="https://static.uemo.net/uploads/b0b1a39caef58429c6d4335f5fb91041.png" alt="">
+            </a>
+        </div> -->
+        <div class="subnav_bg">
+            <div class="sub-banner sketch-wrapper">
+            <div class="sketch"><a class="link_box" href="javascritp:;" target="_blank"></a></div>
+            <script>
+                window.alert_imgs = '[{"id":23,"cat":"case_alert","title":"\u5168\u7403\u6700\u4f73CSS\u5956","head_img":"https:\/\/static.uemo.net\/uploads\/75d18150b072bb3aef420572704cf775.jpg","hide":1,"create_time":"2022-02-11 12:25:13","update_time":"2022-02-11 18:26:47","url":"https:\/\/www.uemox.com"},{"id":22,"cat":"case_alert","title":"\u54c1\u724c\u8425\u9500\u62d3\u5ba2\u5de5\u5177","head_img":"https:\/\/static.uemo.net\/uploads\/bd3a3d4a92c449cb6f6ad44dd188bcf8.jpg","hide":1,"create_time":"2022-02-11 12:24:46","update_time":"2022-02-11 18:27:12","url":"https:\/\/www.uemox.com"}]';
+                document.querySelector('.sub-banner .sketch .link_box').setAttribute('href', JSON.parse(alert_imgs)[0].url);
+            </script>
+            </div>
+            <ul class="subnav">
+            <li>
+                <div class="head">
+                <p class="title">模板案例</p>
+                <p class="subtitle">精品网站案例推荐</p>
+                </div>
+                <div class="con">
+                <div class="item-ver col2">
+                    <a href="/customer/" class=" active item-con">
+                    <span data-text="模板案例推荐"></span>
+                    </a>
+                    <div class="item-con">
+                        <a href="/customer/half/" class=" active item-con">
+                            <span data-text="半定制模板"></span>
+                        </a>
+                        <a href="/page/diy.html" target="_blank" class="icon">?</a>
+                    </div>
+                </div>
+                <div class="item-ver col2">
+                </div>
+                </div>
+            </li>
+            <li>
+                <div class="head">
+                <p class="title">定制案例</p>
+                <p class="subtitle">国内外多次获奖经历</p>
+                </div>
+                <div class="con">
+                <div class="item-ver col2">
+                    <a href="/diy/" class=" active item-con">
+                    <span data-text="全部案例"></span>
+                    </a>
+                    <a href="/diy/?area=country" class=" active item-con">
+                    <span data-text="国内案例"></span>
+                    </a>
+                </div>
+                <div class="item-ver col3">
+                    <a href="/diy/?area=international" class=" active item-con">
+                    <span data-text="国外案例"></span>
+                    </a>
+                </div>
+                <div class="item-ver col3">
+                </div>
+                </div>
+            </li>
+            <li>
+                <div class="head">
+                <p class="title icon-new">小程序</p>
+                <p class="subtitle">品牌商城 + 营销拓客工具</p>
+                </div>
+                <div class="con">
+                <div class="item-ver col2">
+                  <a href="./miniapp_case.html" class="{}item-con">
+                    <span data-text="客户案例"></span>
+                  </a>
+                  <a href="https://www.uemo.net/page/minishop.html" class="item-con">
+                    <span data-text="品牌商城"></span>
+                  </a>
+                </div>
+                <div class="item-ver col3">
+                  <a href="javascript:;" class="item-con sub-code">
+                    <span data-text="免费试用"></span>
+                    <img src="../assets//images/miniapp-code.png" alt="" class="qrcode">
+                  </a>
+                </div>
+                <div class="item-ver col3">
+                </div>
+                </div>
+            </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<!-- 内容 -->
+
+<div id="sitecontent" class="sitecontent">
+    <div id="pageContent" class="pageContent">
+        <div id="pageTarget" class="pageTarget">
+            <div class="container_category">
+                <div class="category_wrapper">
+                </div>
+            </div>
+        </div>
+        <div id="postWrapper" class="postWrapper">
+            <div class="postContent">
+                <div class="postInfo">
+                    <p class="title">404 Not Found</p>
+                    <p class="subtitle"></p>
+                </div>
+                <div class="postBody" style="color: #999">
+                    <dl>
+                        <dd id="browser-path">页面不存在</dd>
+                        <dd id="browser-path"><a href="/">返回首页</a></dd>
+                    </dl>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+</div>
+<!-- 底部 -->
+<div class="notice-popup">
+    <div class="notice-wrapper">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                                <a class="swiper-slide notice-link" href="https://www.uebuilder.net/" target="_blank" style="padding-left: 50px">
+                    <p class="ellipsis">在线制作免费下载源文件</p>
+                </a>
+                            </div>
+        </div>
+        <a href="javascript:;" target="_blank" class="more">立即免费体验</a>
+    </div>
+</div>
+<div class="popup_qr pop-wechat">
+  <div class="fixed-container wx_qrcode">
+      <div class="qrcode"><img src="/views/files/qrcode.jpg" alt="">
+          <p>扫描二维码关注公众号</p>
+      </div>
+  </div>
+</div>
+<footer id="footer" data-static="/views/pc/static/">
+    <div class="module_container">
+        <div class="foot_nav wow fadeInUp">
+                        <a href="/page/about.html" target="_blannk">关于我们</a>
+                        <a href="/document/doc/" target="_blannk">相关教程</a>
+                        <a href="/document/faq/" target="_blannk">常见问题</a>
+                        <a href="/page/law.html" target="_blannk">法律声明</a>
+                        <a href="/page/contact.html" target="_blannk">联系我们</a>
+                    </div>
+        <div class="copyright wow fadeInUp">COPYRIGHT (©) 2020 企业快速建站-免费自助模板建站-高端网站定制设计-魔艺建站专业网站建设公司.</div>
+        <div class="beian wow fadeInUp">
+            <a rel="nofollow" class="beian" href="http://beian.miit.gov.cn" target="_blank">京ICP备12019481号-5</a>
+            <a href="//resources.jsmo.xin/templates/upload/2/copy-gov.jpg" target="_blank">增值电信业务经营许可证：京B2-20181555</a>
+            <a href="https://xyt.xcc.cn/getpcInfo?sn=1610559659045789696&language=CN&certType=8&url=*.uemo.net" target="_blank" style="position: relative;display: inline-block;height: 38px;margin-left: 12px;top: 12px">
+<div style="width:100%;height:100%;position: absolute;top: 0;left: 0;"></div><embed src="https://program.xinchacha.com/web/1610559659045789696=*.uemo.net.svg"width="103" height="38" type="image/svg+xml" pluginspage="//www.adobe.com/svg/viewer/install/"/></a>
+        </div>
+                <div class="contact wow fadeInUp" data-wow-dalay="0.1s">
+        <div class="share">
+            <a href="javascript:;" class="active wechat open-popup" data-type="wechat">
+            <i class="iconfont icon-weixin1"></i>
+            </a>
+            <a href="https://weibo.com/uelike" class="weibo" target="_blank">
+            <i class="iconfont icon-weibo1"></i>
+            </a>
+        </div>
+            <div class="tel">
+                <div class="num">010-69557550</div>
+                <span class="text">周一至周五 9:30 - 18:30</span>
+            </div>
+        </div>
+    </div>
+</footer>
+<script type="text/javascript" src="/views/pc/static/dll/jquery.dll.js?v=18"></script>
+<script type="text/javascript" src="/views/pc/static/js/vender.js?v=84"></script>
+<script type="text/javascript" src="/views/pc/static/js/app.js?v=73"></script>
+<!--<script type="text/javascript" src="https://custom_server.uemo.net/js/jquery.min.js"></script>-->
+<!--<script type="text/javascript" src="https://custom_server.uemo.net/js/chat.js"></script>-->
+
+<div style="display: none">
+    <script type="text/javascript" src="https://s11.cnzz.com/z_stat.php?id=5935831&web_id=5935831"></script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?c0ad1de0ba599ee7188c6eb8b1086602";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</div>
+
+<!-- <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?2a131aefc7bf7da81dae71a1b3070fbd";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script> -->
+
+<script type='text/javascript'>
+(function(a, b, c, d, e, j, s) {
+    a[d] = a[d] || function() {
+        (a[d].a = a[d].a || []).push(arguments)
+    };
+    j = b.createElement(c),
+        s = b.getElementsByTagName(c)[0];
+    j.async = true;
+    j.charset = 'UTF-8';
+    j.src = 'https://static.meiqia.com/widget/loader.js';
+    s.parentNode.insertBefore(j, s);
+})(window, document, 'script', '_MEIQIA');
+_MEIQIA('entId', 'edf5c7d9b385f41681c33d4c8ceeb11c');
+</script>
+<!--uemoViewerJs-->
+<script type="text/javascript" src="/views/pc/static/ueservice/custom.js"></script>
+</body>
+</html>
